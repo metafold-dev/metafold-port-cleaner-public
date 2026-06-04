@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.rar
+release*/
+dist*/
+drivers/
