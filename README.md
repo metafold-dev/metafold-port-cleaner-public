@@ -21,9 +21,9 @@ MetaFold Port Cleaner is a Windows service utility for repair desks and technica
 
 ## Download
 
-The latest Windows build will be published from the Releases page:
+The latest Windows installer will be published from the Releases page:
 
-[Download MetaFold Port Cleaner](https://github.com/metafold-dev/metafold-port-cleaner-public/releases/latest)
+[Download MetaFold Port Cleaner Setup](https://github.com/metafold-dev/metafold-port-cleaner-public/releases/latest)
 
 ## Requirements
 
