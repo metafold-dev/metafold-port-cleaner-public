@@ -15,7 +15,7 @@ MetaFold Port Cleaner is a Windows service utility for repair desks and technica
 - Removes selected stale device records
 - Includes Turkish and English language support
 - Includes light and dark theme support
-- Provides a driver manager for MediaTek, Qualcomm, Rockchip, Spreadtrum, USBdk, Universal ADB, and Samsung USB drivers
+- Provides a driver manager for MediaTek, Qualcomm, Rockchip, Spreadtrum, USBdk, Universal ADB, Huawei USB, and Samsung USB drivers
 - Supports scheduled cleanup prompts
 - Supports OTA update checks through GitHub Releases
 - Includes Windows Device Manager shortcut

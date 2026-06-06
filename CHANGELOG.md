@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.4
+
+- Added Huawei USB Driver package
+- Added bundled x86 and x64 Huawei driver files
+- Improved architecture filtering so x86/x64 driver folders are handled according to the current Windows architecture
+
 ## v1.0.3
 
 - Skipped legacy Samsung Win9x INF files during driver installation
