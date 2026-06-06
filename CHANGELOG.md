@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.2
+
+- Added Samsung USB Driver support
+- Extracted Samsung driver installer into direct INF/CAT/SYS driver package files
+- Samsung driver package now installs through the Driver Store flow
+
 ## v1.0.1
 
 - Added OTA update support with public manifest checks

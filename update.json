@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "installerUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/download/v1.0.1/MetaFoldPortCleanerSetup-v1.0.1-win-x64.exe",
-  "sha256": "93979B7E2B091FA8B0EEC07BEF69077EB09D2DFD2BA4AC509C701398BE1836F1",
-  "releaseNotesUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/tag/v1.0.1",
-  "releaseNotes": "OTA g\u00fcncelleme deste\u011fi eklendi. Uygulama yeni s\u00fcr\u00fcmleri denetleyebilir, installer'i indirebilir ve SHA256 ile do\u011frulayabilir."
+  "version": "1.0.2",
+  "installerUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/download/v1.0.2/MetaFoldPortCleanerSetup-v1.0.2-win-x64.exe",
+  "sha256": "21D7DB7F952030AED12634537A655D49F294F588DF8009CCED371557EEE37A45",
+  "releaseNotesUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/tag/v1.0.2",
+  "releaseNotes": "Samsung USB Driver paketi eklendi. Samsung installer EXE'si ayr\u0131\u015ft\u0131r\u0131ld\u0131 ve s\u00fcr\u00fcc\u00fcler do\u011frudan INF/CAT/SYS dosyalar\u0131yla y\u00fcklenebilir hale getirildi."
 }
