@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.3
+
+- Skipped legacy Samsung Win9x INF files during driver installation
+- Skipped wrong-architecture Samsung INF files on 64-bit Windows
+- Prevented incompatible INF files from appearing as failed driver install results
+
 ## v1.0.2
 
 - Added Samsung USB Driver support
