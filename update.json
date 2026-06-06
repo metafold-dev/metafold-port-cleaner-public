@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "installerUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/download/v1.0.1/MetaFoldPortCleanerSetup-v1.0.1-win-x64.exe",
+  "sha256": "93979B7E2B091FA8B0EEC07BEF69077EB09D2DFD2BA4AC509C701398BE1836F1",
+  "releaseNotesUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/tag/v1.0.1",
+  "releaseNotes": "OTA g\u00fcncelleme deste\u011fi eklendi. Uygulama yeni s\u00fcr\u00fcmleri denetleyebilir, installer'i indirebilir ve SHA256 ile do\u011frulayabilir."
+}
