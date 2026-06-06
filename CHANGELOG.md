@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.5
+
+- Updated the application logo to the new round Meta-USB design
+- Updated installer, shortcut, and public product logo assets
+
 ## v1.0.4
 
 - Added Huawei USB Driver package
