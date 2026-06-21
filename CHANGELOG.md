@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.7
+
+- Improved startup update checks so the app checks silently on each launch when startup update checks are enabled
+- Shows the update prompt automatically when a newer OTA release is available
+- Keeps "no update available" messages silent during startup checks
+
 ## v1.0.6
 
 - Added safer scheduled cleanup prompts with current scan counts before removal

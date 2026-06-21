@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "installerUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/download/v1.0.6/MetaFoldPortCleanerSetup-v1.0.6-win-x64.exe",
-  "sha256": "A3C922685CE18F1ECF1B65BAD5B7DC765B3302BEEB1654EF1147EA52EFB1E43B",
-  "releaseNotesUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/tag/v1.0.6",
-  "releaseNotes": "Güvenli planlı temizlik, büyük ekran/DPI düzeni, hazır liste sıralamaları, ortalanmış Hakkında penceresi ve daha yumuşak uyarı sesi eklendi."
+  "version": "1.0.7",
+  "installerUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/download/v1.0.7/MetaFoldPortCleanerSetup-v1.0.7-win-x64.exe",
+  "sha256": "2B19DDC514FBDE8C236A0FFB5198AED4F9DB8A66AE18C91E4E0D8BBF437AB681",
+  "releaseNotesUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/tag/v1.0.7",
+  "releaseNotes": "Başlangıçta güncelleme denetimi iyileştirildi. Ayar açıksa program her açılışta sessizce kontrol eder ve yeni sürüm bulunduğunda otomatik uyarı gösterir."
 }
