@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "installerUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/download/v1.0.5/MetaFoldPortCleanerSetup-v1.0.5-win-x64.exe",
-  "sha256": "91CB43AD18F85F68CE0644317EDC7E4930FE33619CA89AB123854D0A495CE09C",
-  "releaseNotesUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/tag/v1.0.5",
-  "releaseNotes": "Program logosu yeni yuvarlak Meta-USB tasarımıyla güncellendi. Pencere, installer ve kısayol ikonları yeni logoyu kullanır."
+  "version": "1.0.6",
+  "installerUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/download/v1.0.6/MetaFoldPortCleanerSetup-v1.0.6-win-x64.exe",
+  "sha256": "A3C922685CE18F1ECF1B65BAD5B7DC765B3302BEEB1654EF1147EA52EFB1E43B",
+  "releaseNotesUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/tag/v1.0.6",
+  "releaseNotes": "Güvenli planlı temizlik, büyük ekran/DPI düzeni, hazır liste sıralamaları, ortalanmış Hakkında penceresi ve daha yumuşak uyarı sesi eklendi."
 }

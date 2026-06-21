@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.6
+
+- Added safer scheduled cleanup prompts with current scan counts before removal
+- Added ready-made list sorting presets such as date, port, COM/ADB/USB priority, manufacturer, class, and Device ID
+- Improved large screen and DPI layout behavior for command buttons and the main window
+- Improved driver signature failure messaging for Secure Boot/admin-policy cases
+- Centered the About dialog text layout
+- Replaced harsh warning prompts with a softer MetaFold warning sound
+
 ## v1.0.5
 
 - Updated the application logo to the new round Meta-USB design
