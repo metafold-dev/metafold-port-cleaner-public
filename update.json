@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "installerUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/download/v1.0.7/MetaFoldPortCleanerSetup-v1.0.7-win-x64.exe",
-  "sha256": "2B19DDC514FBDE8C236A0FFB5198AED4F9DB8A66AE18C91E4E0D8BBF437AB681",
-  "releaseNotesUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/tag/v1.0.7",
-  "releaseNotes": "Başlangıçta güncelleme denetimi iyileştirildi. Ayar açıksa program her açılışta sessizce kontrol eder ve yeni sürüm bulunduğunda otomatik uyarı gösterir."
+  "version": "1.0.8",
+  "installerUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/download/v1.0.8/MetaFoldPortCleanerSetup-v1.0.8-win-x64.exe",
+  "sha256": "8110E103951A29F036E5472A21378A164AFF8E89FF8EDDBA4B937219CFE7174D",
+  "releaseNotesUrl": "https://github.com/metafold-dev/metafold-port-cleaner-public/releases/tag/v1.0.8",
+  "releaseNotes": "Görev Yöneticisi Pro butonu eklendi. Process Explorer paket içinden yönetici olarak açılır ve Windows mimarisine göre doğru sürüm otomatik seçilir."
 }

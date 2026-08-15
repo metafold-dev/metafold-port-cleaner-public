@@ -20,6 +20,7 @@ MetaFold Port Cleaner is a Windows service utility for repair desks and technica
 - Supports safe scheduled cleanup prompts with current scan counts before removal
 - Supports OTA update checks through GitHub Releases
 - Includes Windows Device Manager shortcut
+- Includes Task Manager Pro shortcut powered by bundled Microsoft Sysinternals Process Explorer
 
 ## Download
 

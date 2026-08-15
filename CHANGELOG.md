@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.8
+
+- Added a Task Manager Pro button powered by bundled Microsoft Sysinternals Process Explorer
+- Bundled Process Explorer x86, x64, ARM64 executables and EULA under tools\ProcessExplorer
+- Launches the matching Process Explorer executable as administrator based on Windows architecture
+
 ## v1.0.7
 
 - Improved startup update checks so the app checks silently on each launch when startup update checks are enabled
